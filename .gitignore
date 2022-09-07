@@ -1,0 +1,6 @@
+# compiled output
+target
+
+# IDEs and editors and tools
+.idea
+*.iml
